@@ -6,6 +6,8 @@
 
 **ModelScope 国内版 / 国际版每日签到单文件脚本，分开管理令牌、回读魔粒余额与调用额度。**
 
+> 当前版本：**v1.0.3**（2026-11-05） · 最新更新：文档与使用边界同步，保留国内版/国际版双站隔离
+
 [简体中文](README.md) | [English](docs/README.en.md) | [繁體中文](docs/README.zh-Hant.md) | [日本語](docs/README.ja.md) | [한국어](docs/README.ko.md) | [Português (BR)](docs/README.pt-BR.md)
 
 <a href="https://github.com/L0NE-6/ModelScope-Daily/releases"><img src="https://img.shields.io/github/v/release/L0NE-6/ModelScope-Daily?style=for-the-badge&label=Release&color=2ea44f&logo=github" alt="Release" /></a>
